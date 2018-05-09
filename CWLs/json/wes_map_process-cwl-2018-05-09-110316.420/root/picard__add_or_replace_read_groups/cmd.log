@@ -1,1 +1,0 @@
-java -Xmx4g -jar /home/ubuntu/external/tools/picard.jar AddOrReplaceReadGroups INPUT=/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam OUTPUT=sample.dedubbed.RG.bam CREATE_INDEX= true RGID=ID12345 RGLB=WES RGPL=illumina RGPU=PU1 RGSM=na12878

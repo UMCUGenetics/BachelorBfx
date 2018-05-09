@@ -1,1 +1,0 @@
-java -Xmx4g -jar /home/ubuntu/external/tools/picard.jar  MarkDuplicates VALIDATION_STRINGENCY=SILENT INPUT= /home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_sort/sample.sort.bam OUTPUT= sample.dedubbed.bam METRICS_FILE= dedubbed.metrics.txt CREATE_INDEX= true

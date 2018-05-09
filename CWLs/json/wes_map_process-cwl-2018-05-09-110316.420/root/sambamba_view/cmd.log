@@ -1,1 +1,0 @@
-sambamba view  -S --format bam /home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam -o sample.bam

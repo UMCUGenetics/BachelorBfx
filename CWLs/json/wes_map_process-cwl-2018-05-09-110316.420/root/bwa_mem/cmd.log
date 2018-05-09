@@ -1,1 +1,0 @@
-bwa mem /home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta /home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_1.fastq /home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_2.fastq > /home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam
