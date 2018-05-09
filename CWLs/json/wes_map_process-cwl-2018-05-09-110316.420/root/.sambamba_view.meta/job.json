@@ -1,0 +1,54 @@
+{
+  "id" : "104db7d6-3ad0-3915-a74e-95718e9990d9",
+  "parentId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "rootId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "name" : "root.sambamba_view",
+  "app" : "data:text/plain;base64,ewogICJhcHBGaWxlTG9jYXRpb24iIDogIi9ob21lL3VidW50dS9Ob3RlYm9va3MvQ1dML3Rvb2xzL3NhbWJhbWJhLXZpZXcuY3dsIiwKICAiY3dsVmVyc2lvbiIgOiAidjEuMCIsCiAgImlucHV0cyIgOiBbIHsKICAgICJpZCIgOiAiaW5wdXRfc2FtIiwKICAgICJ0eXBlIiA6ICJGaWxlIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMywKICAgICAgInNoZWxsUXVvdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogIm91dF9iYW1fbmFtZSIsCiAgICAidHlwZSIgOiAic3RyaW5nPyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDUsCiAgICAgICJwcmVmaXgiIDogIi1vIiwKICAgICAgInNoZWxsUXVvdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogImZvcm1hdCIsCiAgICAidHlwZSIgOiAic3RyaW5nIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMiwKICAgICAgInByZWZpeCIgOiAiLS1mb3JtYXQiLAogICAgICAic2hlbGxRdW90ZSIgOiBmYWxzZQogICAgfQogIH0gXSwKICAib3V0cHV0cyIgOiBbIHsKICAgICJpZCIgOiAib3V0X2JhbSIsCiAgICAidHlwZSIgOiAiRmlsZSIsCiAgICAib3V0cHV0QmluZGluZyIgOiB7CiAgICAgICJnbG9iIiA6ICIkKGlucHV0cy5vdXRfYmFtX25hbWUpIgogICAgfQogIH0gXSwKICAiaGludHMiIDogWyBdLAogICJyZXF1aXJlbWVudHMiIDogWyB7CiAgICAiY2xhc3MiIDogIlNoZWxsQ29tbWFuZFJlcXVpcmVtZW50IgogIH0sIHsKICAgICJjbGFzcyIgOiAiSW5saW5lSmF2YXNjcmlwdFJlcXVpcmVtZW50IgogIH0gXSwKICAic3VjY2Vzc0NvZGVzIiA6IFsgXSwKICAiYmFzZUNvbW1hbmQiIDogWyAic2FtYmFtYmEiLCAidmlldyIgXSwKICAiYXJndW1lbnRzIiA6IFsgewogICAgInBvc2l0aW9uIiA6IDEsCiAgICAicHJlZml4IiA6ICIiLAogICAgInZhbHVlRnJvbSIgOiAiLVMiCiAgfSBdLAogICJpZCIgOiAic2FtYmFtYmFfdmlldyIsCiAgImxhYmVsIiA6ICJzYW1iYW1iYSB2aWV3IiwKICAiJG5hbWVzcGFjZXMiIDogewogICAgInNiZyIgOiAiaHR0cHM6Ly93d3cuc2V2ZW5icmlkZ2VzLmNvbSIKICB9LAogICJjbGFzcyIgOiAiQ29tbWFuZExpbmVUb29sIgp9",
+  "status" : "COMPLETED",
+  "inputs" : {
+    "format" : "bam",
+    "input_sam" : [ {
+      "size" : 81679,
+      "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+      "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+      "name" : "sample.sam",
+      "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem",
+      "nameroot" : "sample",
+      "nameext" : ".sam",
+      "checksum" : "sha1$31eda899c2e305d71ab8682f26608aee2e140e0a",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : null
+      },
+      "$type" : "File"
+    } ],
+    "out_bam_name" : "sample.bam"
+  },
+  "outputs" : {
+    "out_bam" : {
+      "size" : 21326,
+      "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_view/sample.bam",
+      "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_view/sample.bam",
+      "name" : "sample.bam",
+      "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_view",
+      "nameroot" : "sample",
+      "nameext" : ".bam",
+      "checksum" : "sha1$6922072a4ca745a1fb184c3c03b5b5a28547b76c",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : null
+      },
+      "$type" : "File"
+    }
+  },
+  "resources" : {
+    "cpu" : 2,
+    "memMB" : 6207,
+    "diskSpaceMB" : null,
+    "networkAccess" : false,
+    "workingDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_view",
+    "tmpDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/sambamba_view",
+    "outDirSize" : null,
+    "tmpDirSize" : null
+  }
+}

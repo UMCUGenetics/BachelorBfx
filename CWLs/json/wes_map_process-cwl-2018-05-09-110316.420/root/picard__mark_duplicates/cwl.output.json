@@ -1,0 +1,24 @@
+{
+  "markDups_output" : {
+    "basename" : "sample.dedubbed.bam",
+    "checksum" : "sha1$afae4b3baac8236bd333ffc8df5c3f5f5ec96549",
+    "class" : "File",
+    "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates",
+    "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam",
+    "nameext" : ".bam",
+    "nameroot" : "sample.dedubbed",
+    "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam",
+    "size" : 22225
+  },
+  "markDups_output_index" : {
+    "basename" : "sample.dedubbed.bai",
+    "checksum" : "sha1$c250cb5a95ff4856512bfd9d00165c12b67c8809",
+    "class" : "File",
+    "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates",
+    "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bai",
+    "nameext" : ".bai",
+    "nameroot" : "sample.dedubbed",
+    "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bai",
+    "size" : 96
+  }
+}

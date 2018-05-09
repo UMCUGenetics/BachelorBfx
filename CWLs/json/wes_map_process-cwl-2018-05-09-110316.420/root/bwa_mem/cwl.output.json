@@ -1,0 +1,13 @@
+{
+  "output" : {
+    "basename" : "sample.sam",
+    "checksum" : "sha1$31eda899c2e305d71ab8682f26608aee2e140e0a",
+    "class" : "File",
+    "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem",
+    "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+    "nameext" : ".sam",
+    "nameroot" : "sample",
+    "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+    "size" : 81679
+  }
+}

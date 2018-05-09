@@ -1,0 +1,156 @@
+{
+  "id" : "913efe3d-3ea2-3c04-b71e-22ecd8cb84b6",
+  "parentId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "rootId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "name" : "root.bwa_mem",
+  "app" : "data:text/plain;base64,ewogICJhcHBGaWxlTG9jYXRpb24iIDogIi9ob21lL3VidW50dS9Ob3RlYm9va3MvQ1dML3Rvb2xzL2J3YS1tZW0uY3dsIiwKICAiY3dsVmVyc2lvbiIgOiAidjEuMCIsCiAgImlucHV0cyIgOiBbIHsKICAgICJpZCIgOiAibWluaW11bV9zZWVkX2xlbmd0aCIsCiAgICAidHlwZSIgOiAiaW50PyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDEsCiAgICAgICJwcmVmaXgiIDogIi1rIgogICAgfSwKICAgICJkb2MiIDogIi1rIElOVCAgICAgICAgbWluaW11bSBzZWVkIGxlbmd0aCBbMTldIgogIH0sIHsKICAgICJpZCIgOiAicmVmZXJlbmNlIiwKICAgICJ0eXBlIiA6ICJGaWxlIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMgogICAgfSwKICAgICJzZWNvbmRhcnlGaWxlcyIgOiBbICIuYW1iIiwgIi5hbm4iLCAiLmJ3dCIsICIucGFjIiwgIi5zYSIgXQogIH0sIHsKICAgICJpZCIgOiAib3V0cHV0X2ZpbGVuYW1lIiwKICAgICJ0eXBlIiA6ICJzdHJpbmciCiAgfSwgewogICAgImlkIiA6ICJyZWFkcyIsCiAgICAidHlwZSIgOiAiRmlsZVtdIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMwogICAgfQogIH0sIHsKICAgICJpZCIgOiAidGhyZWFkcyIsCiAgICAidHlwZSIgOiAiaW50PyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDEsCiAgICAgICJwcmVmaXgiIDogIi10IgogICAgfSwKICAgICJkb2MiIDogIi10IElOVCAgICAgICAgbnVtYmVyIG9mIHRocmVhZHMgWzFdIgogIH0sIHsKICAgICJpZCIgOiAibWluX3N0ZF9tYXhfbWluIiwKICAgICJ0eXBlIiA6ICJpbnRbXT8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJpdGVtU2VwYXJhdG9yIiA6ICIsIiwKICAgICAgInBvc2l0aW9uIiA6IDEsCiAgICAgICJwcmVmaXgiIDogIi1JIgogICAgfQogIH0sIHsKICAgICJpZCIgOiAicmVhZF9ncm91cF9zdHIiLAogICAgInR5cGUiIDogInN0cmluZz8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiAxLAogICAgICAicHJlZml4IiA6ICItUiIKICAgIH0sCiAgICAiZG9jIiA6ICItUiBTVFIgICAgIHJlYWQgZ3JvdXAgaGVhZGVyIGxpbmUgc3VjaCBhcyAnQFJHXFx0SUQ6Zm9vXFx0U006YmFyJyBbbnVsbF0iCiAgfSBdLAogICJvdXRwdXRzIiA6IFsgewogICAgImlkIiA6ICJvdXRwdXQiLAogICAgInR5cGUiIDogIkZpbGUiLAogICAgIm91dHB1dEJpbmRpbmciIDogewogICAgICAiZ2xvYiIgOiAiJChpbnB1dHMub3V0cHV0X2ZpbGVuYW1lKSIKICAgIH0KICB9IF0sCiAgImhpbnRzIiA6IFsgXSwKICAicmVxdWlyZW1lbnRzIiA6IFsgewogICAgImNsYXNzIiA6ICJJbmxpbmVKYXZhc2NyaXB0UmVxdWlyZW1lbnQiCiAgfSBdLAogICJzdWNjZXNzQ29kZXMiIDogWyBdLAogICJzdGRvdXQiIDogIiQoaW5wdXRzLm91dHB1dF9maWxlbmFtZSkiLAogICJiYXNlQ29tbWFuZCIgOiBbICJid2EiLCAibWVtIiBdLAogICJhcmd1bWVudHMiIDogWyBdLAogICJjbGFzcyIgOiAiQ29tbWFuZExpbmVUb29sIgp9",
+  "status" : "COMPLETED",
+  "inputs" : {
+    "min_std_max_min" : null,
+    "minimum_seed_length" : null,
+    "output_filename" : "sample.sam",
+    "read_group_str" : null,
+    "reads" : [ {
+      "size" : 36433,
+      "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_1.fastq",
+      "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_1.fastq",
+      "name" : "example_human_Illumina.pe_1.fastq",
+      "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+      "nameroot" : "example_human_Illumina.pe_1",
+      "nameext" : ".fastq",
+      "checksum" : "sha1$c04ebcb8dae9c3feadef306d0d2908f9022f5640",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : { }
+      },
+      "$type" : "File"
+    }, {
+      "size" : 36433,
+      "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_2.fastq",
+      "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_Illumina.pe_2.fastq",
+      "name" : "example_human_Illumina.pe_2.fastq",
+      "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+      "nameroot" : "example_human_Illumina.pe_2",
+      "nameext" : ".fastq",
+      "checksum" : "sha1$156fc35ad95d2a40b001448662655bb1b554815b",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : { }
+      },
+      "$type" : "File"
+    } ],
+    "reference" : [ {
+      "size" : 10207,
+      "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta",
+      "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta",
+      "name" : "example_human_reference.fasta",
+      "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+      "nameroot" : "example_human_reference",
+      "nameext" : ".fasta",
+      "checksum" : "sha1$417ed45227c62e994ac9d7caec1059c6ecb59f3b",
+      "secondaryFiles" : [ {
+        "$type" : "File",
+        "size" : 10,
+        "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.amb",
+        "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.amb",
+        "name" : "example_human_reference.fasta.amb",
+        "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+        "nameroot" : "example_human_reference.fasta",
+        "nameext" : ".amb",
+        "secondaryFiles" : [ ],
+        "properties" : {
+          "sbg:metadata" : null
+        },
+        "$type" : "File"
+      }, {
+        "$type" : "File",
+        "size" : 26,
+        "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.ann",
+        "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.ann",
+        "name" : "example_human_reference.fasta.ann",
+        "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+        "nameroot" : "example_human_reference.fasta",
+        "nameext" : ".ann",
+        "secondaryFiles" : [ ],
+        "properties" : {
+          "sbg:metadata" : null
+        },
+        "$type" : "File"
+      }, {
+        "$type" : "File",
+        "size" : 10100,
+        "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.bwt",
+        "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.bwt",
+        "name" : "example_human_reference.fasta.bwt",
+        "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+        "nameroot" : "example_human_reference.fasta",
+        "nameext" : ".bwt",
+        "secondaryFiles" : [ ],
+        "properties" : {
+          "sbg:metadata" : null
+        },
+        "$type" : "File"
+      }, {
+        "$type" : "File",
+        "size" : 2502,
+        "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.pac",
+        "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.pac",
+        "name" : "example_human_reference.fasta.pac",
+        "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+        "nameroot" : "example_human_reference.fasta",
+        "nameext" : ".pac",
+        "secondaryFiles" : [ ],
+        "properties" : {
+          "sbg:metadata" : null
+        },
+        "$type" : "File"
+      }, {
+        "$type" : "File",
+        "size" : 5056,
+        "path" : "/home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.sa",
+        "location" : "file:///home/ubuntu/rabix/rabix/tests/test-files/example_human_reference.fasta.sa",
+        "name" : "example_human_reference.fasta.sa",
+        "dirname" : "/home/ubuntu/rabix/rabix/tests/test-files",
+        "nameroot" : "example_human_reference.fasta",
+        "nameext" : ".sa",
+        "secondaryFiles" : [ ],
+        "properties" : {
+          "sbg:metadata" : null
+        },
+        "$type" : "File"
+      } ],
+      "properties" : {
+        "sbg:metadata" : { }
+      },
+      "$type" : "File"
+    } ],
+    "threads" : null
+  },
+  "outputs" : {
+    "output" : {
+      "size" : 81679,
+      "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+      "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem/sample.sam",
+      "name" : "sample.sam",
+      "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem",
+      "nameroot" : "sample",
+      "nameext" : ".sam",
+      "checksum" : "sha1$31eda899c2e305d71ab8682f26608aee2e140e0a",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : null
+      },
+      "$type" : "File"
+    }
+  },
+  "resources" : {
+    "cpu" : 2,
+    "memMB" : 6207,
+    "diskSpaceMB" : null,
+    "networkAccess" : false,
+    "workingDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem",
+    "tmpDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/bwa_mem",
+    "outDirSize" : null,
+    "tmpDirSize" : null
+  }
+}

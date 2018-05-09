@@ -1,0 +1,67 @@
+{
+  "id" : "2d15aa75-43a8-31ed-9c37-3a40a98b03d3",
+  "parentId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "rootId" : "006e1365-df89-46df-9322-57f4e7c4e401",
+  "name" : "root.picard__add_or_replace_read_groups",
+  "app" : "data:text/plain;base64,ewogICJhcHBGaWxlTG9jYXRpb24iIDogIi9ob21lL3VidW50dS9Ob3RlYm9va3MvQ1dML3Rvb2xzL3BpY2FyZC1BZGRPclJlcGxhY2VSZWFkR3JvdXBzLmN3bCIsCiAgImN3bFZlcnNpb24iIDogInYxLjAiLAogICJpbnB1dHMiIDogWyB7CiAgICAiaWQiIDogImlucHV0IiwKICAgICJ0eXBlIiA6ICJGaWxlW10iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiAzLAogICAgICAicHJlZml4IiA6ICJJTlBVVD0iLAogICAgICAic2VwYXJhdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogImphdmFfYXJncyIsCiAgICAidHlwZSIgOiAic3RyaW5nIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMQogICAgfQogIH0sIHsKICAgICJpZCIgOiAib3V0cHV0IiwKICAgICJ0eXBlIiA6ICJzdHJpbmciLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiA0LAogICAgICAicHJlZml4IiA6ICJPVVRQVVQ9IiwKICAgICAgInNlcGFyYXRlIiA6IGZhbHNlCiAgICB9CiAgfSwgewogICAgImlkIiA6ICJTb3J0T3JkZXIiLAogICAgInR5cGUiIDogInN0cmluZz8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiA2LAogICAgICAicHJlZml4IiA6ICJTT1JUX09SREVSPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiUmVhZEdyb3VwSUQiLAogICAgInR5cGUiIDogInN0cmluZyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDcsCiAgICAgICJwcmVmaXgiIDogIlJHSUQ9IiwKICAgICAgInNlcGFyYXRlIiA6IGZhbHNlCiAgICB9CiAgfSwgewogICAgImlkIiA6ICJSZWFkR3JvdXBMaWJyYXJ5IiwKICAgICJ0eXBlIiA6ICJzdHJpbmciLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiA4LAogICAgICAicHJlZml4IiA6ICJSR0xCPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiUmVhZEdyb3VwUGxhdGZvcm0iLAogICAgInR5cGUiIDogInN0cmluZyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDksCiAgICAgICJwcmVmaXgiIDogIlJHUEw9IiwKICAgICAgInNlcGFyYXRlIiA6IGZhbHNlCiAgICB9CiAgfSwgewogICAgImlkIiA6ICJSZWFkR3JvdXBQbGF0Zm9ybVVuaXQiLAogICAgInR5cGUiIDogInN0cmluZyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDEwLAogICAgICAicHJlZml4IiA6ICJSR1BVPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiUmVhZEdyb3VwU2FtcGxlTmFtZSIsCiAgICAidHlwZSIgOiAic3RyaW5nIiwKICAgICJpbnB1dEJpbmRpbmciIDogewogICAgICAicG9zaXRpb24iIDogMTEsCiAgICAgICJwcmVmaXgiIDogIlJHU009IiwKICAgICAgInNlcGFyYXRlIiA6IGZhbHNlCiAgICB9CiAgfSwgewogICAgImlkIiA6ICJSZWFkR3JvdXBTZXF1ZW5jZUNlbnRlciIsCiAgICAidHlwZSIgOiAic3RyaW5nPyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDEyLAogICAgICAicHJlZml4IiA6ICJSR0NOPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiUmVhZEdyb3VwRGVzY3JpcHRpb24iLAogICAgInR5cGUiIDogInN0cmluZz8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiAxMywKICAgICAgInByZWZpeCIgOiAiUkdEUz0iLAogICAgICAic2VwYXJhdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogIlJlYWRHcm91cFJ1bkRhdGUiLAogICAgInR5cGUiIDogInN0cmluZz8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiAxNCwKICAgICAgInByZWZpeCIgOiAiUkdEVD0iLAogICAgICAic2VwYXJhdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogIlJlYWRHcm91cFByZWRpY3RlZEluc2VydFNpemUiLAogICAgInR5cGUiIDogInN0cmluZz8iLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiAxNSwKICAgICAgInByZWZpeCIgOiAiUkdQST0iLAogICAgICAic2VwYXJhdGUiIDogZmFsc2UKICAgIH0KICB9LCB7CiAgICAiaWQiIDogIlJlYWRHcm91cFByb2dyYW1Hcm91cCIsCiAgICAidHlwZSIgOiAic3RyaW5nPyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDE2LAogICAgICAicHJlZml4IiA6ICJSR1BHPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiUmVhZEdyb3VwUGxhdGZvcm1Nb2RlbCIsCiAgICAidHlwZSIgOiAic3RyaW5nPyIsCiAgICAiaW5wdXRCaW5kaW5nIiA6IHsKICAgICAgInBvc2l0aW9uIiA6IDE3LAogICAgICAicHJlZml4IiA6ICJSR1BNPSIsCiAgICAgICJzZXBhcmF0ZSIgOiBmYWxzZQogICAgfQogIH0sIHsKICAgICJpZCIgOiAiQ1JFQVRFX0lOREVYIiwKICAgICJ0eXBlIiA6ICJzdHJpbmciLAogICAgImlucHV0QmluZGluZyIgOiB7CiAgICAgICJwb3NpdGlvbiIgOiA1LAogICAgICAicHJlZml4IiA6ICJDUkVBVEVfSU5ERVg9IgogICAgfQogIH0gXSwKICAib3V0cHV0cyIgOiBbIHsKICAgICJpZCIgOiAib3V0X2JhbSIsCiAgICAidHlwZSIgOiAiRmlsZT8iLAogICAgIm91dHB1dEJpbmRpbmciIDogewogICAgICAiZ2xvYiIgOiAiJChpbnB1dHMub3V0cHV0KSIKICAgIH0KICB9IF0sCiAgImhpbnRzIiA6IFsgXSwKICAicmVxdWlyZW1lbnRzIiA6IFsgewogICAgImNsYXNzIiA6ICJTaGVsbENvbW1hbmRSZXF1aXJlbWVudCIKICB9LCB7CiAgICAiY2xhc3MiIDogIklubGluZUphdmFzY3JpcHRSZXF1aXJlbWVudCIKICB9IF0sCiAgInN1Y2Nlc3NDb2RlcyIgOiBbIF0sCiAgImJhc2VDb21tYW5kIiA6IFsgImphdmEiIF0sCiAgImFyZ3VtZW50cyIgOiBbIHsKICAgICJwb3NpdGlvbiIgOiAyLAogICAgInByZWZpeCIgOiAiLWphciIsCiAgICAic2hlbGxRdW90ZSIgOiBmYWxzZSwKICAgICJ2YWx1ZUZyb20iIDogIi9ob21lL3VidW50dS9leHRlcm5hbC90b29scy9waWNhcmQuamFyIEFkZE9yUmVwbGFjZVJlYWRHcm91cHMiCiAgfSBdLAogICJpZCIgOiAicGljYXJkX19hZGRfb3JfcmVwbGFjZV9yZWFkX2dyb3VwcyIsCiAgImxhYmVsIiA6ICJwaWNhcmQtQWRkT3JSZXBsYWNlUmVhZEdyb3VwcyIsCiAgIiRuYW1lc3BhY2VzIiA6IHsKICAgICJzYmciIDogImh0dHBzOi8vd3d3LnNldmVuYnJpZGdlcy5jb20iCiAgfSwKICAiY2xhc3MiIDogIkNvbW1hbmRMaW5lVG9vbCIKfQ==",
+  "status" : "COMPLETED",
+  "inputs" : {
+    "CREATE_INDEX" : "true",
+    "ReadGroupDescription" : null,
+    "ReadGroupID" : "ID12345",
+    "ReadGroupLibrary" : "WES",
+    "ReadGroupPlatform" : "illumina",
+    "ReadGroupPlatformModel" : null,
+    "ReadGroupPlatformUnit" : "PU1",
+    "ReadGroupPredictedInsertSize" : null,
+    "ReadGroupProgramGroup" : null,
+    "ReadGroupRunDate" : null,
+    "ReadGroupSampleName" : "na12878",
+    "ReadGroupSequenceCenter" : null,
+    "SortOrder" : null,
+    "input" : [ {
+      "size" : 22225,
+      "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam",
+      "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam",
+      "name" : "sample.dedubbed.bam",
+      "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates",
+      "nameroot" : "sample.dedubbed",
+      "nameext" : ".bam",
+      "checksum" : "sha1$afae4b3baac8236bd333ffc8df5c3f5f5ec96549",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : null
+      },
+      "$type" : "File"
+    } ],
+    "java_args" : "-Xmx4g",
+    "output" : "sample.dedubbed.RG.bam"
+  },
+  "outputs" : {
+    "out_bam" : {
+      "size" : 22493,
+      "path" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__add_or_replace_read_groups/sample.dedubbed.RG.bam",
+      "location" : "file:///home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__add_or_replace_read_groups/sample.dedubbed.RG.bam",
+      "name" : "sample.dedubbed.RG.bam",
+      "dirname" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__add_or_replace_read_groups",
+      "nameroot" : "sample.dedubbed.RG",
+      "nameext" : ".bam",
+      "checksum" : "sha1$00547a473171bf65d914102491fa77b4ad42dd3c",
+      "secondaryFiles" : [ ],
+      "properties" : {
+        "sbg:metadata" : null
+      },
+      "$type" : "File"
+    }
+  },
+  "resources" : {
+    "cpu" : 2,
+    "memMB" : 6207,
+    "diskSpaceMB" : null,
+    "networkAccess" : false,
+    "workingDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__add_or_replace_read_groups",
+    "tmpDir" : "/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__add_or_replace_read_groups",
+    "outDirSize" : null,
+    "tmpDirSize" : null
+  }
+}

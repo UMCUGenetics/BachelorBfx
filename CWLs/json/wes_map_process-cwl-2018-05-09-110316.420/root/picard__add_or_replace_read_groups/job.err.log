@@ -1,0 +1,6 @@
+[Wed May 09 11:03:27 UTC 2018] picard.sam.AddOrReplaceReadGroups INPUT=/home/ubuntu/Notebooks/CWL/json/wes_map_process-cwl-2018-05-09-110316.420/root/picard__mark_duplicates/sample.dedubbed.bam OUTPUT=sample.dedubbed.RG.bam RGID=ID12345 RGLB=WES RGPL=illumina RGPU=PU1 RGSM=na12878 CREATE_INDEX=true    VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json
+[Wed May 09 11:03:27 UTC 2018] Executing as ubuntu@ip-172-31-1-35 on Linux 4.4.0-121-generic amd64; OpenJDK 64-Bit Server VM 1.8.0_162-8u162-b12-0ubuntu0.16.04.2-b12; Picard version: 2.9.0-1-gf5b9f50-SNAPSHOT
+INFO	2018-05-09 11:03:28	AddOrReplaceReadGroups	Created read group ID=ID12345 PL=illumina LB=WES SM=na12878
+
+[Wed May 09 11:03:28 UTC 2018] picard.sam.AddOrReplaceReadGroups done. Elapsed time: 0.00 minutes.
+Runtime.totalMemory()=126877696
