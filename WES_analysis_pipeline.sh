@@ -6,11 +6,11 @@ bwa mem Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fast
 # Create BAM file
 sambamba view -S -f bam na12878_wes.sam > na12878_wes.bam
 
-# Sort the BAM file
-sambamba sort na12878_wes.bam
-
 # Mark duplicates
 sambamba markdupe na12878_wgs.sorted.bam dedupped_na12878_wes.sorted.bam
+
+# Sort the BAM file
+sambamba sort na12878_wes.bam
 
 # Add readgroups
 java -jar $PICARD AddOrReplaceReadGroups \
