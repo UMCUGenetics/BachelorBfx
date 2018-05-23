@@ -10,7 +10,7 @@ sambamba view -S -f bam na12878_wes.sam > na12878_wes.bam
 sambamba sort na12878_wes.bam
 
 # Mark duplicates
-sambamba markdup na12878_wes.sorted.bam dedupped_na12878_wes.sorted.bam
+sambamba markdup na12878_wgs.sorted.bam dedupped_na12878_wes.sorted.bam
 
 # Add readgroups
 java -jar $PICARD AddOrReplaceReadGroups \
